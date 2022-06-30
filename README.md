@@ -9,7 +9,7 @@ A customizable website/URL blocking chrome extension builder.
 
 ## Demonstration
 
-https://codes-anywhere.herokuapp.com/
+https://blocking-web-ete.herokuapp.com/
 
 
 ### Extension-Usage
