@@ -50,6 +50,6 @@ Ever wondered how to block adult content on your device? Well now you can...easi
 
 
 ## License
-Licensed under the [MIT License.](https://github.com/LakshaySK106/Blocking-Web-ETE/blob/master/LICENCE)
+Licensed under the [MIT License.](https://choosealicense.com/licenses/mit/)
 
 
