@@ -2,7 +2,9 @@ import React ,{useRef, useState} from 'react'
 import "./Testbuttons.scss"
 import axios from 'axios'
 import fileDownload from "js-file-download"
-const url = 'https://blocking-web-ete.herokuapp.com/api/routes'
+// const url = 'https://blocking-web-ete.herokuapp.com/api/routes'
+const url = "http://localhost:8000/api/routes";
+
 
  // Declared a set to contain all the url domainx names
   let web_set = new Set();

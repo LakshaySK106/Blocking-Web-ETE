@@ -1,4 +1,4 @@
-let arr = ["primevideo","instagram","netflix","hotstar","blocksite"]
+let arr = ["wikipedia"]
 
         function makeHTML(){
             return `
